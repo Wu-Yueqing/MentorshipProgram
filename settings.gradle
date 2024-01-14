@@ -1,0 +1,4 @@
+rootProject.name = 'GuiceDemo'
+include 'TemplatePattern'
+include 'StrategyPattern'
+
